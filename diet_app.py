@@ -9,7 +9,7 @@ from utils.preprocessing import classify_sugar_level, classify_bmi, encode_datas
 
 # Setup
 st.set_page_config(page_title="Diabetic Diet Recommender", layout="centered")
-st.title("🍎 Diet Recommendation System for Diabetics")
+st.title("🍎 Diet Recommendation System for Diabetics by TTSET GLOBAL")
 
 #add app icon
 with st.sidebar:
