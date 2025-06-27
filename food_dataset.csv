@@ -1,0 +1,201 @@
+Food,BMI_Category,Sugar_Level_Category,Calories,Diet_Type
+Tofu Stir Fry,Normal,Moderate,195,Veg
+Turkey Slices,Overweight,Moderate,222,Non-Veg
+Boiled Eggs,Obese,Moderate,161,Non-Veg
+Turkey Slices,Obese,Moderate,222,Non-Veg
+Turkey Slices,Overweight,Moderate,248,Non-Veg
+Zucchini Noodles,Normal,Moderate,160,Veg
+Boiled Eggs,Overweight,Controlled,169,Non-Veg
+Turkey Slices,Normal,Moderate,244,Non-Veg
+Lentil Stew,Normal,Moderate,194,Veg
+Quinoa Salad,Underweight,Controlled,203,Veg
+Grilled Fish,Overweight,Moderate,250,Non-Veg
+Lentil Stew,Normal,High,225,Veg
+Tofu Stir Fry,Overweight,High,181,Veg
+Vegetable Soup,Underweight,High,152,Veg
+Cottage Cheese,Normal,Moderate,199,Veg
+Tofu Stir Fry,Overweight,Moderate,168,Veg
+Turkey Slices,Normal,Controlled,226,Non-Veg
+Grilled Chicken,Underweight,Moderate,241,Non-Veg
+Zucchini Noodles,Obese,High,153,Veg
+Boiled Eggs,Obese,High,167,Non-Veg
+Chickpea Soup,Underweight,Controlled,193,Veg
+Lentil Stew,Obese,Controlled,198,Veg
+Cottage Cheese,Obese,Controlled,184,Veg
+Lentil Stew,Normal,Moderate,220,Veg
+Turkey Slices,Obese,Controlled,230,Non-Veg
+Chickpea Soup,Underweight,Moderate,193,Veg
+Tofu Stir Fry,Overweight,High,162,Veg
+Lentil Stew,Obese,Controlled,204,Veg
+Grilled Fish,Obese,High,273,Non-Veg
+Steamed Vegetables,Obese,High,76,Veg
+Grilled Fish,Underweight,Controlled,252,Non-Veg
+Cottage Cheese,Overweight,Moderate,201,Veg
+Vegetable Soup,Overweight,High,127,Veg
+Cottage Cheese,Obese,High,182,Veg
+Grilled Chicken,Overweight,High,270,Non-Veg
+Lentil Stew,Obese,High,207,Veg
+Spinach Omelette,Normal,High,199,Non-Veg
+Quinoa Salad,Overweight,High,222,Veg
+Quinoa Salad,Overweight,Moderate,225,Veg
+Cottage Cheese,Obese,Controlled,194,Veg
+Chickpea Soup,Normal,Controlled,166,Veg
+Baked Salmon,Underweight,Controlled,290,Non-Veg
+Spinach Omelette,Normal,High,196,Non-Veg
+Tofu Stir Fry,Overweight,Moderate,197,Veg
+Zucchini Noodles,Overweight,Controlled,179,Veg
+Tofu Stir Fry,Overweight,Controlled,167,Veg
+Grilled Chicken,Obese,Moderate,255,Non-Veg
+Turkey Slices,Underweight,High,231,Non-Veg
+Zucchini Noodles,Normal,Controlled,160,Veg
+Grilled Fish,Overweight,Moderate,279,Non-Veg
+Tofu Stir Fry,Overweight,Controlled,195,Veg
+Baked Salmon,Obese,Moderate,277,Non-Veg
+Quinoa Salad,Normal,High,231,Veg
+Steamed Vegetables,Normal,Moderate,104,Veg
+Turkey Slices,Normal,Moderate,235,Non-Veg
+Chickpea Soup,Obese,High,168,Veg
+Steamed Vegetables,Normal,Controlled,94,Veg
+Low-fat Yogurt,Underweight,Controlled,105,Veg
+Grilled Chicken,Underweight,High,243,Non-Veg
+Zucchini Noodles,Normal,High,175,Veg
+Grilled Fish,Overweight,Moderate,284,Non-Veg
+Quinoa Salad,Normal,High,230,Veg
+Chickpea Soup,Overweight,High,171,Veg
+Zucchini Noodles,Overweight,Moderate,169,Veg
+Tofu Stir Fry,Normal,Controlled,179,Veg
+Grilled Fish,Overweight,High,266,Non-Veg
+Grilled Fish,Overweight,Moderate,265,Non-Veg
+Steamed Vegetables,Overweight,Controlled,77,Veg
+Chickpea Soup,Obese,Moderate,173,Veg
+Spinach Omelette,Normal,High,216,Non-Veg
+Vegetable Soup,Normal,Controlled,139,Veg
+Grilled Chicken,Obese,High,256,Non-Veg
+Vegetable Soup,Normal,High,143,Veg
+Tofu Stir Fry,Underweight,Moderate,175,Veg
+Cottage Cheese,Normal,Controlled,173,Veg
+Lentil Stew,Obese,High,223,Veg
+Boiled Eggs,Normal,High,146,Non-Veg
+Cottage Cheese,Overweight,High,177,Veg
+Grilled Fish,Underweight,Moderate,251,Non-Veg
+Boiled Eggs,Normal,High,158,Non-Veg
+Grilled Fish,Obese,High,254,Non-Veg
+Grilled Chicken,Normal,Controlled,239,Non-Veg
+Steamed Vegetables,Normal,Moderate,71,Veg
+Quinoa Salad,Overweight,Controlled,216,Veg
+Baked Salmon,Overweight,Controlled,296,Non-Veg
+Vegetable Soup,Obese,Moderate,153,Veg
+Steamed Vegetables,Underweight,Controlled,88,Veg
+Spinach Omelette,Obese,Controlled,203,Non-Veg
+Low-fat Yogurt,Normal,Controlled,85,Veg
+Tofu Stir Fry,Overweight,Controlled,186,Veg
+Cottage Cheese,Underweight,Controlled,180,Veg
+Grilled Fish,Overweight,High,264,Non-Veg
+Low-fat Yogurt,Overweight,High,112,Veg
+Steamed Vegetables,Underweight,Moderate,97,Veg
+Low-fat Yogurt,Normal,Controlled,98,Veg
+Grilled Chicken,Normal,Controlled,265,Non-Veg
+Grilled Fish,Normal,Controlled,280,Non-Veg
+Cottage Cheese,Underweight,Controlled,173,Veg
+Boiled Eggs,Overweight,Controlled,144,Non-Veg
+Quinoa Salad,Overweight,Moderate,204,Veg
+Vegetable Soup,Normal,Moderate,157,Veg
+Vegetable Soup,Underweight,Controlled,145,Veg
+Zucchini Noodles,Obese,Controlled,154,Veg
+Turkey Slices,Underweight,Moderate,211,Non-Veg
+Vegetable Soup,Normal,High,125,Veg
+Cottage Cheese,Obese,Controlled,209,Veg
+Quinoa Salad,Obese,High,216,Veg
+Vegetable Soup,Underweight,High,136,Veg
+Lentil Stew,Overweight,High,193,Veg
+Tofu Stir Fry,Obese,Controlled,166,Veg
+Cottage Cheese,Overweight,Controlled,185,Veg
+Turkey Slices,Underweight,Moderate,217,Non-Veg
+Boiled Eggs,Underweight,Moderate,153,Non-Veg
+Grilled Fish,Normal,High,263,Non-Veg
+Baked Salmon,Overweight,High,291,Non-Veg
+Vegetable Soup,Obese,Moderate,143,Veg
+Boiled Eggs,Obese,High,135,Non-Veg
+Steamed Vegetables,Underweight,Moderate,88,Veg
+Grilled Chicken,Overweight,High,247,Non-Veg
+Vegetable Soup,Obese,Moderate,144,Veg
+Chickpea Soup,Obese,High,182,Veg
+Grilled Fish,Overweight,High,279,Non-Veg
+Grilled Chicken,Normal,High,262,Non-Veg
+Tofu Stir Fry,Underweight,High,176,Veg
+Steamed Vegetables,Normal,Controlled,83,Veg
+Baked Salmon,Overweight,Controlled,264,Non-Veg
+Grilled Chicken,Overweight,High,233,Non-Veg
+Grilled Chicken,Underweight,Moderate,257,Non-Veg
+Grilled Chicken,Normal,High,263,Non-Veg
+Baked Salmon,Normal,Moderate,277,Non-Veg
+Cottage Cheese,Normal,Moderate,205,Veg
+Low-fat Yogurt,Underweight,High,111,Veg
+Steamed Vegetables,Obese,Moderate,90,Veg
+Boiled Eggs,Normal,Moderate,162,Non-Veg
+Tofu Stir Fry,Overweight,High,185,Veg
+Tofu Stir Fry,Underweight,Controlled,163,Veg
+Low-fat Yogurt,Underweight,Moderate,119,Veg
+Boiled Eggs,Normal,High,141,Non-Veg
+Boiled Eggs,Obese,Controlled,130,Non-Veg
+Grilled Fish,Normal,Moderate,268,Non-Veg
+Spinach Omelette,Normal,Controlled,189,Non-Veg
+Boiled Eggs,Overweight,Moderate,150,Non-Veg
+Grilled Fish,Obese,Moderate,254,Non-Veg
+Vegetable Soup,Underweight,High,145,Veg
+Boiled Eggs,Normal,High,145,Non-Veg
+Cottage Cheese,Obese,Moderate,194,Veg
+Quinoa Salad,Overweight,Moderate,207,Veg
+Baked Salmon,Underweight,Controlled,297,Non-Veg
+Turkey Slices,Normal,Controlled,228,Non-Veg
+Quinoa Salad,Underweight,Moderate,216,Veg
+Grilled Fish,Normal,High,251,Non-Veg
+Chickpea Soup,Overweight,High,163,Veg
+Tofu Stir Fry,Underweight,Moderate,167,Veg
+Turkey Slices,Underweight,Moderate,228,Non-Veg
+Grilled Chicken,Underweight,High,259,Non-Veg
+Cottage Cheese,Underweight,Controlled,185,Veg
+Lentil Stew,Underweight,Controlled,192,Veg
+Tofu Stir Fry,Normal,Moderate,185,Veg
+Chickpea Soup,Obese,Moderate,184,Veg
+Zucchini Noodles,Overweight,Moderate,174,Veg
+Quinoa Salad,Normal,Controlled,206,Veg
+Steamed Vegetables,Overweight,Moderate,89,Veg
+Quinoa Salad,Underweight,Controlled,217,Veg
+Vegetable Soup,Underweight,Controlled,140,Veg
+Chickpea Soup,Overweight,High,193,Veg
+Grilled Chicken,Underweight,Controlled,264,Non-Veg
+Vegetable Soup,Overweight,High,155,Veg
+Steamed Vegetables,Overweight,Moderate,102,Veg
+Zucchini Noodles,Overweight,High,159,Veg
+Low-fat Yogurt,Underweight,Moderate,111,Veg
+Chickpea Soup,Overweight,Moderate,184,Veg
+Baked Salmon,Underweight,Moderate,281,Non-Veg
+Boiled Eggs,Obese,Controlled,165,Non-Veg
+Grilled Chicken,Overweight,Moderate,254,Non-Veg
+Tofu Stir Fry,Overweight,Moderate,170,Veg
+Steamed Vegetables,Underweight,High,101,Veg
+Low-fat Yogurt,Obese,High,116,Veg
+Grilled Fish,Overweight,Moderate,277,Non-Veg
+Cottage Cheese,Normal,Moderate,206,Veg
+Grilled Chicken,Underweight,Moderate,245,Non-Veg
+Grilled Chicken,Obese,Controlled,255,Non-Veg
+Vegetable Soup,Underweight,Controlled,123,Veg
+Steamed Vegetables,Underweight,Controlled,89,Veg
+Vegetable Soup,Normal,Controlled,140,Veg
+Quinoa Salad,Obese,Moderate,239,Veg
+Lentil Stew,Normal,High,208,Veg
+Turkey Slices,Obese,High,222,Non-Veg
+Baked Salmon,Normal,Controlled,284,Non-Veg
+Low-fat Yogurt,Underweight,Controlled,102,Veg
+Lentil Stew,Overweight,Controlled,227,Veg
+Zucchini Noodles,Overweight,Moderate,172,Veg
+Grilled Chicken,Obese,Moderate,238,Non-Veg
+Grilled Fish,Normal,High,282,Non-Veg
+Boiled Eggs,Obese,Moderate,141,Non-Veg
+Baked Salmon,Obese,Moderate,290,Non-Veg
+Vegetable Soup,Overweight,High,158,Veg
+Tofu Stir Fry,Overweight,Controlled,175,Veg
+Tofu Stir Fry,Normal,Moderate,167,Veg
+Boiled Eggs,Underweight,Controlled,156,Non-Veg
+Lentil Stew,Obese,Controlled,204,Veg
